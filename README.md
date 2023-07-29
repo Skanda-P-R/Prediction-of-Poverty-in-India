@@ -1,2 +1,2 @@
-# Find-Your-Paradise-Hackathon
-HPCC ECL Hackathon 2023 Files
+# International Poster Making Competition
+HPCC ECL Poster Making Competition 2023 Files
