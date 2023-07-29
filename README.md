@@ -1,4 +1,4 @@
-# International Poster Making Competition
+# Analysing, Visuaising and Prediction of Poverty in India - International Poster Making Competition
 
 The main objective of this poster is to analyze and visualize the data on the causes of poverty in India by using HPCC Systems®, an open-source big data analytics platform. By doing so, it aims to provide valuable insights into the conditions of each state affected by poverty. The ultimate goal is to aid the Government and other agencies in identifying states that needs attention and to initiate appropriate measures to reducing poverty.
 
